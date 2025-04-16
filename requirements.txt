@@ -1,0 +1,7 @@
+tensorflow==2.8.0
+tensorflow-gpu==2.8.0
+opencv-python
+mediapipe==0.10.5
+matplotlib
+scikit-learn
+protobuf==3.20.0
